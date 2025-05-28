@@ -1,11 +1,11 @@
-# Heart Disease Prediction using Linear Regression
+# Heart Disease Prediction using Logistic Regression
 
-This project aims to predict the likelihood of heart disease in patients using a **Linear Regression** model. It is a beginner-friendly project implemented in **Google Colab**, using a publicly available dataset from Kaggle.
+This project aims to predict the likelihood of heart disease in patients using a **Logistic Regression** model. It is a beginner-friendly project implemented in **Google Colab**, using a publicly available dataset from Kaggle.
 
 ## 📌 Project Overview
 
 - Built in **Google Colab** using Python
-- Applies **Linear Regression** to predict heart disease likelihood
+- Applies **Logistic Regression** to predict heart disease likelihood
 - Evaluates model performance using **Accuracy Score**, **Mean Squared Error (MSE)** and **R² Score**
 - Includes visualizations for correlation, feature relationships, and model predictions
 
@@ -52,13 +52,13 @@ This project aims to predict the likelihood of heart disease in patients using a
 
 ## 📌 Results
 
-- Linear Regression is a simple method that gave decent results on this binary classification task.
+- Logistic Regression is a simple method that gave decent results on this binary classification task.
 - Visualizations showed a good match between predictions and actual values in many cases, but it's not perfect for classification.
 - This project provides a learning foundation in feature analysis and ML evaluation.
 
 ## 🔮 Future Scope
 
-- Use **classification algorithms** like Logistic Regression, Random Forest, or SVM
+- Use **classification algorithms** like Linear Regression, Random Forest, or SVM
 - Deploy the model in a basic **streamlit web app**
 - Explore hyperparameter tuning and feature engineering
 
