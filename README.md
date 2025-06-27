@@ -33,7 +33,7 @@ This project aims to predict the likelihood of heart disease in patients using a
 
 ## 🤖 Model Used
 
-- **Linear Regression**
+- **Logistic Regression**
   - Used to predict binary target (0 or 1)
   - Performance measured using:
     - **Accuracy Score**
